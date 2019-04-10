@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.6"
+    "iotapay": "^1.0.2",
+    "vue": "^2.6.6",
+    "vuetify": "^1.5.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
