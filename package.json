@@ -2,6 +2,7 @@
   "name": "iotapay-demo",
   "version": "0.1.0",
   "private": true,
+  "website": "https://huhn511.github.io/vue-iotapay-demo",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
